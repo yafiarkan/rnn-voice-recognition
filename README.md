@@ -14,10 +14,10 @@ In this study, several types of testing are done in testing single words and wor
 ### System Flow
 The training system preview shown in the flow diagram below
 
-![Training Flow](https://github.com/annisanazi/rnn-voice-recognition/blob/main/illustration%20flow.png)
+![Training Flow](https://github.com/yafiarkan/rnn-voice-recognition/blob/main/illustration%20flow.png)
 
 The system illustration shown in the flow diagram below 
 
-![System Flow](https://github.com/annisanazi/rnn-voice-recognition/blob/main/system_rnn.png)
+![System Flow](https://github.com/yafiarkan/rnn-voice-recognition/blob/main/system_rnn.png)
 
 The challenging part of this system is the system can predict the part or not. Most part sometimes contain only a position of the required data, for the example it should be "nyala" but the part only contain "nya" and "la" in the next part. 
